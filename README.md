@@ -1,3 +1,27 @@
+instalan token js
+
+cd storage
+
+cd downloads
+
+cd js
+
+unzip token.zip
+
+cd token
+
+python3 token.py
+
+selajutnya istall modulnya 
+
+pip install nama modul
+
+conto pip install akad 
+
+DLL
+
+
+
 # JS
 
 termux-setup-storage
