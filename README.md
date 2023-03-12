@@ -4,6 +4,8 @@ cd storage
 
 cd downloads
 
+git clone https://github.com/Zulkiflimok/JS
+
 cd js
 
 unzip token.zip
