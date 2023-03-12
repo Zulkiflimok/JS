@@ -36,6 +36,10 @@ pip install unzip
 
 pip install git -y
 
+cd storage
+
+cd downloads
+
 git clone https://github.com/Zulkiflimok/JS
 
 cd JS
