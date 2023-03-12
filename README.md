@@ -18,4 +18,6 @@ cd JS
 
 unzip JS.zip
 
+cd js
+
 npm star
